@@ -1,6 +1,6 @@
 -  Hi, I’m @Akhil130604
 -  I’m interested in programming
--  I’m currently learning artificial intelligence,Machine learning,Application decelopment
+-  I’m currently learning artificial intelligence,Machine learning,App development 
 -  I’m looking to collaborate on intersting projects
 -  akhilisacmathew13@gmail.com
 
