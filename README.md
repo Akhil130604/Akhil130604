@@ -16,15 +16,19 @@
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 -  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
--  <a href="https://github.com/Akhil130604/github-readme-stats">
-   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil130604&show_icons=true&theme=transparent" />
-   </a>
-   <a href="https://github.com/Akhil130604/github-readme-stats">
-   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil130604&layout=compact&theme=dark&show&langs_count=8&card_width=320" />
-   </a>
--  <a href="https://github.com/Akhil130604/github-readme-stats">
-   <img height=180 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Akhil130604&theme=tokyonight" />
-   </a>
+<div style="text-align: center;">
+    <a href="https://github.com/Akhil130604/github-readme-stats">
+        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil130604&show_icons=true&theme=transparent" />
+    </a>
+    <a href="https://github.com/Akhil130604/github-readme-stats">
+        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil130604&layout=compact&theme=dark&show&langs_count=8&card_width=320" />
+    </a>
+    <a href="https://github.com/Akhil130604/github-readme-stats" style="display: block; margin: 0 auto;">
+        <img height=180 src="http://github-readme-streak-stats.herokuapp.com?user=Akhil130604&theme=tokyonight" />
+    </a>
+</div>
+
+
 <!---
 Akhil130604/Akhil130604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
