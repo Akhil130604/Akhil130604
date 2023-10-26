@@ -3,8 +3,6 @@
 -  I’m currently learning artificial intelligence,Machine learning,App development 
 -  I’m looking to collaborate on intersting projects
 -  akhilisacmathew13@gmail.com
--  [![Akhil Isac Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil130604)](https://github.com/Akhil130604/github-readme-stats)
--  ![Akhil Isac Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil130604&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 -  ![Akhil Isac Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil130604&show_icons=true)
 
 <!---
