@@ -3,7 +3,7 @@
 -  I’m currently learning artificial intelligence,Machine learning,App development 
 -  I’m looking to collaborate on intersting projects
 -  akhilisacmathew13@gmail.com
--  ![Akhil Isac Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil130604&show_icons=true)
+-  ![Akhil Isac Mathew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhil130604&show_icons=true&theme=radical)
 
 <!---
 Akhil130604/Akhil130604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
